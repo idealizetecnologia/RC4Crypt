@@ -4,7 +4,7 @@ RC4Crypt
 Instalação
 ==============
 ```php
-composer require idealizetecnologia/RC4Crypt
+composer require idealizetecnologia/rc4cypt
 ```
 
 Licença

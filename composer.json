@@ -1,5 +1,5 @@
 {
-    "name": "idealizetecnologia/RC4Crypt",
+    "name": "idealizetecnologia/rc4crypt",
     "description": "Biblioteca de Criptografia",
     "keywords": ["RC4Crypt", "php", "composer"],
     "type": "library",
